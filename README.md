@@ -1,4 +1,4 @@
-Open a terminal and change directory (cd) to the result found by searching with Alfred limiting itself to folders.
+Open a Finder windwos or terminal—and change directory—to the result found by searching with Alfred limiting itself to folders.
 
 Download from releases.
 
@@ -15,10 +15,10 @@ I don’t like tabs for terminals so it is intentional that each terminal is in 
 	btf 	→ 	opens a finder showing the current directory 
 			in your terminal
 
-Set the variable term_type  (click on the "Configure workflow and variables" button [𝓍]) to "Terminal" (without quoates) to work with Terminal.app or "iTerm2" to work with iTerm2.app. The scripts will only work with recent version of iTerm2 which implement the newer applescript API.
+Set the variable term_type  (click on the "Configure workflow and variables" button [𝓍]) to "Terminal" (without quoates) to work with Terminal.app or "iTerm2" to work with iTerm2.app. The scripts will only work with versions of iTerm2 which implement the newer applescript API.
 
 Changes:
 
-Only one really. Instead of using the "Reveal file in Finder" function built in it's using AppleScript to open the folder and is now equivelent to the "Open File" action triggered with the spacebar.
+Only one really. Instead of using the "Reveal file in Finder" function built in to Alfred we're using AppleScript to open the folder and is now equivelent to the "Open File" action triggered with the spacebar.
 
 Enjoy bananas.

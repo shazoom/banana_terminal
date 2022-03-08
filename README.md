@@ -1,5 +1,7 @@
 Open a terminal and change directory (cd) to the result found by searching with Alfred limiting itself to folders.
 
+Download from releases.
+
 This workflow uses some code from https://github.com/raguay/MyAlfred/blob/master/AlfredBrowserToolbox.alfredworkflow and https://github.com/LeEnno/alfred-terminalfinder.
 
 I don’t like tabs for terminals so it is intentional that each terminal is in its own window. If you want to see a script with support for opening in tabs, take a look at https://github.com/LeEnno/alfred-terminalfinder.
